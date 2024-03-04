@@ -1,0 +1,43 @@
+.Design{
+    background-color: #FFCD9E;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.One{
+    text-align: start;
+    padding: 5%;
+    width: 30%;
+    height: 450px;
+    top: 10px;
+    left: 800px;
+}
+.Two{
+    text-align: start;
+    text-align: right;
+    width: 50%;
+    height: 450px;
+    top: 10px;
+    left: 800px;
+}
+#Third {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    text-align:start;
+    padding: 5%;
+}
+button {
+    background-color: black;
+    color: white;
+}
+input {
+    border: 3px solid black;
+}
+.Image {
+    color: #FFCD9E;
+    background-color: black;
+    width: 10%;
+    height: 20%;
+}
